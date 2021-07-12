@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='hello-niksingh710',
-    version='0.0.1',
+    version='0.0.2',
     description='Says Hello!',
     py_modules=['hello_niksingh710'],
     package_dir={'': 'src'},
