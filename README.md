@@ -8,7 +8,7 @@ All Help was took from the youtube video <[How To Publish A Package On PyPI](htt
 Run the following to install:
 
 ```python
-pip install hello_niksingh710
+pip install hello-niksingh710
 ```
 
 ## Usage

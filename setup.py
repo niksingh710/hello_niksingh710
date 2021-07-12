@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='hello_niksingh710',
+    name='hello-niksingh710',
     version='0.0.1',
     description='Says Hello!',
     py_modules=['hello_niksingh710'],
